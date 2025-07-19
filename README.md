@@ -1,0 +1,1 @@
+# michzel.cz-status
