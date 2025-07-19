@@ -1,2 +1,2 @@
-# michzel.cz-status
+# michzel.cz status page
 Work in progress
